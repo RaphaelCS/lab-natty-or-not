@@ -14,7 +14,7 @@ Utilizei o "Copilot" para redigir o conteúdo e refinar minhas ideias e também 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo resumido, demonstrando como as IAs podem revolucionar o merdado de desenvolvimento de software.
 
-
+link para e-book: https://github.com/RaphaelCS/lab-natty-or-not/blob/main/exemplos/ebook_MercadoTrabalhoDevIA.docx
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência interessante sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
